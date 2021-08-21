@@ -6,3 +6,4 @@ Harmonia's minimal loader.
 
 * GNU/Linux - Tested
 * Windows - Untested
+* Darwin/MacOS - Untested
