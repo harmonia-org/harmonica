@@ -1,0 +1,19 @@
+{
+  "name": "harmonica",
+  "version": "1.0.0",
+  "description": "Harmonia's minimal loader.",
+  "main": "src/injector/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/harmonia-org/harmonica.git"
+  },
+  "author": "Beef",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/harmonia-org/harmonica/issues"
+  },
+  "homepage": "https://gitlab.com/harmonia-org/harmonica#readme"
+}
