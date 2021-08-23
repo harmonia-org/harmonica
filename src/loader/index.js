@@ -4,6 +4,9 @@
 // Import path
 const path = require('path')
 
+// Import http
+const http = require('http')
+
 // Import the Module constructor
 const Module = require('module');
 
